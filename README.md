@@ -1,2 +1,1 @@
-# Discord-nitro-generator
-nitro.exe is a lightweight code-pattern simulator designed for developers who want to test how their systems handle randomly generated strings. It creates mock codes in the style of common URL patterns (for example: discord.gift/XXXX) The app can automatically send these test strings to a chosen Discord webhook, making it possible to generate nitro. WARNING THIS MAY RESULT IN A BAN IF DONE A LONG TIME, ban chance is very low
+What tf you doing in ma code
